@@ -7,5 +7,8 @@
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "tailwindcss": "^3.3.0"
+  }
 }
